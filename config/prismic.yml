@@ -3,5 +3,5 @@ url: https://dohzyatest.prismic.io/api
 # If specified this token is used for all "guest" requests
 token: "MC5VcUdnclFFQUFOaFRTV25n.77-977-977-9aWkg77-9BA17KQpI77-9Alzvv70XfHhVV--_vQ5Z77-977-977-977-977-977-977-9"
 # OAuth2 configuration
-# client_id: ""
-# client_secret: ""
+client_id: "UkmUGUnM02QBEdQO"
+client_secret: "09dc60264809d63b948f9bc36bc18f3c"
