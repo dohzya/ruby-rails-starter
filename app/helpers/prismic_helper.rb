@@ -15,6 +15,11 @@ module PrismicHelper
     }
   end
 
+  # Allows for a faster way to write link_resolver in the views.
+  def lr
+    link_resolver(@maybe_ref)
+  end
+
   # Checks if the user is connected to prismic.io's OAuth2.
   def connected?
     !!@access_token
